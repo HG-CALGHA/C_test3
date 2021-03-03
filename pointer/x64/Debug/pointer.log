@@ -1,0 +1,10 @@
+﻿  test.c
+C:\Users\CGH\source\repos\pointer\test.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\CGH\source\repos\pointer\test.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\CGH\source\repos\pointer\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\CGH\source\repos\pointer\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\CGH\source\repos\pointer\test.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\CGH\source\repos\pointer\test.c(14,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\CGH\source\repos\pointer\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\CGH\source\repos\pointer\test.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+  pointer.vcxproj -> C:\Users\CGH\source\repos\pointer\x64\Debug\pointer.exe

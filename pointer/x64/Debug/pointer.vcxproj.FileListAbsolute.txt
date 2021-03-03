@@ -1,0 +1,2 @@
+C:\Users\CGH\source\repos\pointer\x64\Debug\pointer.exe
+C:\Users\CGH\source\repos\pointer\x64\Debug\pointer.pdb
